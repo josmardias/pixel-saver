@@ -1,6 +1,8 @@
 Pixel Saver
 ===========
 
+> This fork removes AppMenu and Buttons features. It's just "hide the title bar when maximized"
+
 Pixel Saver is an extension for Gnome Shell that merge the activity bar and the
 title bar of maximized window. It is especially interesting for small screens,
 but MOAR pixels for your apps is always good !
